@@ -1,7 +1,7 @@
 # **STM32WBA Web Bluetooth® App Interfaces**
 
 Two github pages hosting the web app are available:
--   [Web Bluetooth® **HOME PAGE**](https://applible.github.io/ST-Web-Bluetooth/ "https://applible.github.io/ST-Web-Bluetooth/").
+-   [Web Bluetooth® **HOME PAGE**](https://chastillon.github.io/ST-Web-Bluetooth/ "https://chastillon.github.io/ST-Web-Bluetooth/").
 -   [Web Bluetooth® **STM32WB**](https://AppliBLE.github.io/Web_Bluetooth_App_WB "https://AppliBLE.github.io/Web_Bluetooth_App_WB").
   
 No installation is required to use it this way.
